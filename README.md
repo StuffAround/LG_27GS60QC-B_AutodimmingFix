@@ -6,6 +6,7 @@ LG ULTRAGEAR LIMITED Cal.icm --> Monitor Color Profile to be used when the Outpu
 The suggested color profile is "LG ULTRAGEAR LIMITED Cal.icm" with Output Control Format (color space) set to RGB LIMITED or YCbCr444 LIMITED.
 
 
+
 LG ULTRAGEAR Autodimming fix Tools to generate the color profile
 
 *DisplayCAL
