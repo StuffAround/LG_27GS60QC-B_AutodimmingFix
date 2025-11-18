@@ -34,3 +34,10 @@ usage: -i inprofile.icm curves.cal outprofile.icm
  -i              Insert 'vcgt'
 Usage Details and Discussion
 The -v flag may give extra information.
+
+
+
+Calibration Files
+calcurve.cal "Original Calibration File"
+calcurve_2.cal "Calibration file to fix autodimming with Output  Color Format YCbCr444 "
+calcurve_4.cal "Calibration file to fix autodimming with Output  Color Format RGB "
