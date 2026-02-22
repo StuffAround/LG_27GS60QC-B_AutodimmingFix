@@ -41,3 +41,5 @@ Calibration Files
 calcurve.cal "Original Calibration File"
 calcurve_2.cal "Calibration file to fix autodimming with Output  Color Format YCbCr444"
 calcurve_4.cal "Calibration file to fix autodimming with Output  Color Format RGB"
+
+If you want to use my ICC/ICM profiles you must credit me on your work otherwise the ICC/ICM is not allowed to be used. 
