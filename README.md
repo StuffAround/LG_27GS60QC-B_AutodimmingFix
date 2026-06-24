@@ -70,7 +70,7 @@ This project is the result of 5 months of research and development by **Stuff_Ar
 You are free to download and use these ICC profiles for your personal monitor setup.
 
 ### 2. Software Integration Prohibited
-**Strictly Prohibited:** You may **not** bundle, integrate, or embed these profiles into any software, scripts, calibration tools, or firmware without express written permission.
+**Strictly Prohibited:** You may **not** bundle, integrate, or embed these profiles into any software, scripts, calibration tools, or firmware without express written permission moreover the idea behind the fix (changing any kind display paramters via software) is forbidden to be used.
 
 ### 3. Attribution Required
 If you share or mention this fix on forums, YouTube, or social media, you **must** credit **Stuff_Around** and link back to this repository.
